@@ -3,8 +3,8 @@ import oracledb
 def get_connection():
     connection=None
     # 1. Define your connection parameters
-    db_user = "xxx"
-    db_password = "yyy"
+    db_user = "revathi"
+    db_password = "tiger"
     db_host = "localhost"
     db_port = "1521"
     db_service_name = "orcl" # Often something like 'ORCL' or 'XEPDB1'
